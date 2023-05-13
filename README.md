@@ -3,11 +3,13 @@ The PREVAIL Cohort is a 2-year, CDC funded birth cohort in the Greater Cincinnat
 
 For details on data collection methods, aims of the study, and preliminary findings, please see the published protocol (available here). Other published work is included in this file. If you are interested in collaborating with PREVAIL or would like more information, please reach out to the corresponding authors listed in the published protocol.
 
-Citations: 
+PREVAIL has presented as numerous conferences, including Pediatric Academic Society, ID Week, American Society for Nutrition, American Public Health Association, International Society for Research in Human Milk and Lactation, The World Microbe Forum, International Society for Extra Cellular Vesicles among others. Research is ongoing.
+
+Published work to date: 
  
 Morrow AL, Staat MA, DeFranco EA, McNeal MM, Cline AR, Conrey SC, Schlaudecker EP, Piasecki AM, Burke RM, Niu L, Hall AJ, Bowen MD, Gerber SI, Langley GE, Thornburg NJ, Campbell AP, Vinjé J, Parashar UD, Payne DC. Pediatric Respiratory and Enteric Virus Acquisition and Immunogenesis in US Mothers and Children Aged 0-2: PREVAIL Cohort Study. JMIR Res Protoc. 2021 Feb 12;10(2):e22222. doi: 10.2196/22222. PMID: 33576746; PMCID: PMC7910118.
 
-Zheyi Teoh, MD, Shannon Conrey, PhD, Monica McNeal, MS, Allison Burrell, PhD (cand), Rachel M Burke, PhD, Claire Mattison, MPH, Meredith McMorrow, MD, Daniel C Payne, PhD, Ardythe L Morrow, PhD, Mary Allen Staat, MD, Burden of respiratory viruses in children less than two years in a community-based longitudinal U.S. birth cohort, Clinical Infectious Diseases, 2023;, ciad289, https://doi.org/10.1093/cid/ciad289
+Zheyi T, Conrey SC, McNeal MM, Burrell AR, Burke RM, Mattison CP, McMorrow M, Payne DC, Morrow AL, Staat MA. Burden of respiratory viruses in children less than two years in a community-based longitudinal U.S. birth cohort, Clinical Infectious Diseases, 2023;, ciad289, https://doi.org/10.1093/cid/ciad289
 
 Thorman AW, Adkins G, Conrey SC, Burrell AR, Yu Y, White B, Burke R, Haslam D, Payne DC, Staat MA, Morrow AL, Newburg DS. Gut Microbiome Composition and Metabolic Capacity Differ by FUT2 Secretor Status in Exclusively Breastfed Infants. Nutrients. 2023; 15(2):471. https://doi.org/10.3390/nu15020471
 
