@@ -15,6 +15,8 @@ Infectious Disease:
 
 Zheyi T, Conrey SC, McNeal MM, Burrell AR, Burke RM, Mattison CP, McMorrow M, Payne DC, Morrow AL, Staat MA. Burden of respiratory viruses in children less than two years in a community-based longitudinal U.S. birth cohort, Clinical Infectious Diseases, 2023;, ciad289, https://doi.org/10.1093/cid/ciad289
 
+Payne DC, McNeal M, Staat MA, Piasecki AM, Cline A, DeFranco E, Goveia MG, Parashar UD, Burke RM, Morrow AL. Persistence of Maternal Anti-Rotavirus Immunoglobulin G in the Post-Rotavirus Vaccine Era. J Infect Dis. 2021 Jul 2;224(1):133-136. doi: 10.1093/infdis/jiaa715. PMID: 33211872.
+
 Microbiome:
 
 Thorman AW, Adkins G, Conrey SC, Burrell AR, Yu Y, White B, Burke R, Haslam D, Payne DC, Staat MA, Morrow AL, Newburg DS. Gut Microbiome Composition and Metabolic Capacity Differ by FUT2 Secretor Status in Exclusively Breastfed Infants. Nutrients. 2023; 15(2):471. https://doi.org/10.3390/nu15020471
