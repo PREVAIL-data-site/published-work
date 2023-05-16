@@ -5,16 +5,21 @@ For details on data collection methods, aims of the study, and preliminary findi
 
 PREVAIL has presented as numerous conferences, including Pediatric Academic Society, ID Week, American Society for Nutrition, American Public Health Association, International Society for Research in Human Milk and Lactation, The World Microbe Forum, International Society for Extra Cellular Vesicles among others. Research is ongoing.
 
-Published work to date: 
+Published work to date by topic:
  
+Protocol:
 Morrow AL, Staat MA, DeFranco EA, McNeal MM, Cline AR, Conrey SC, Schlaudecker EP, Piasecki AM, Burke RM, Niu L, Hall AJ, Bowen MD, Gerber SI, Langley GE, Thornburg NJ, Campbell AP, Vinjé J, Parashar UD, Payne DC. Pediatric Respiratory and Enteric Virus Acquisition and Immunogenesis in US Mothers and Children Aged 0-2: PREVAIL Cohort Study. JMIR Res Protoc. 2021 Feb 12;10(2):e22222. doi: 10.2196/22222. PMID: 33576746; PMCID: PMC7910118.
 
+Infectious Disease:
 Zheyi T, Conrey SC, McNeal MM, Burrell AR, Burke RM, Mattison CP, McMorrow M, Payne DC, Morrow AL, Staat MA. Burden of respiratory viruses in children less than two years in a community-based longitudinal U.S. birth cohort, Clinical Infectious Diseases, 2023;, ciad289, https://doi.org/10.1093/cid/ciad289
 
+Microbiome:
 Thorman AW, Adkins G, Conrey SC, Burrell AR, Yu Y, White B, Burke R, Haslam D, Payne DC, Staat MA, Morrow AL, Newburg DS. Gut Microbiome Composition and Metabolic Capacity Differ by FUT2 Secretor Status in Exclusively Breastfed Infants. Nutrients. 2023; 15(2):471. https://doi.org/10.3390/nu15020471
 
+Childhood obesity:
 Conrey SC, Burrell AR, Brokamp C, Burke RM, Couch SC, Niu L, Mattison CP, et al. 2022. Neighbourhood socio-economic environment predicts adiposity and obesity risk in children under two. Pediatric Obesity. 2022;e12964. doi:10.1111/ijpo.12964
 
 Conrey SC, Burrell AR, Brokamp C, Burke RM, Couch SC, Niu L, Mattison CP, Payne DC, Staat MA, Morrow AL. 2022. Comparison of neighborhood deprivation index and food desert status as environmental predictors of early childhood obesity. Int Public Health J 2022;14(3). 
 
+Breastfeeding:
 Morrow AL, McClain J, Conrey SC, Niu L, Kinzer A, Cline AR, Piasecki AM, et al. 2021. Breastfeeding disparities and their mediators in an urban birth cohort of black and white mothers. Breastfeeding Medicine Jun;16(6): 452-62. 
