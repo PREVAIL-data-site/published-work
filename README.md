@@ -17,6 +17,14 @@ Zheyi T, Conrey SC, McNeal MM, Burrell AR, Burke RM, Mattison CP, McMorrow M, Pa
 
 Payne DC, McNeal M, Staat MA, Piasecki AM, Cline A, DeFranco E, Goveia MG, Parashar UD, Burke RM, Morrow AL. Persistence of Maternal Anti-Rotavirus Immunoglobulin G in the Post-Rotavirus Vaccine Era. J Infect Dis. 2021 Jul 2;224(1):133-136. doi: 10.1093/infdis/jiaa715. PMID: 33211872.
 
+Morrow, A. L., Payne, D. C., Conrey, S. C., McMorrow, M., McNeal, M. M., Niu, L., Burrell, A. R., Schlaudecker, E. P., Mattison, C., Burke, R. M., DeFranco, E., Teoh, Z., Wrammert, J., Atherton, L. J., Thornburg, N. J., & Staat, M. A. (2024). Endemic coronavirus infections are associated with strong homotypic immunity in a US cohort of children from birth to 4 years. Journal of the Pediatric Infectious Diseases Society, , piae016. 10.1093/jpids/piae016
+
+Burke, R. M., Payne, D. C., McNeal, M., Conrey, S. C., Burrell, A. R., Mattison, C. P., Casey-Moore, M., Mijatovic-Rustempasic, S., Gautam, R., Esona, M. D., Thorman, A. W., Bowen, M. D., Parashar, U. D., Tate, J. E., Morrow, A. L., & Staat, M. A. (2024). Correlates of Rotavirus Vaccine Shedding and Seroconversion in a U.S. Cohort of Healthy Infants. The Journal of Infectious Diseases, , jiae055. 10.1093/infdis/jiae055 
+
+Teoh, Z., Conrey, S., McNeal, M., Burrell, A., Burke, R. M., Mattison, C. P., McMorrow, M., Thornburg, N., Payne, D. C., Morrow, A. L., & Staat, M. A. (2024). Factors associated with prolonged respiratory virus detection from PCR of nasal specimens collected longitudinally in healthy children in a U.S. birth cohort. Journal of the Pediatric Infectious Diseases Society, , piae009. 10.1093/jpids/piae009
+
+Zhou, Y., Leahy, K., Grose, A., Lykins, J., Siddiqui, M., Leong, N., Goodall, P., Withers, S., Ashi, K., Schrantz, S., Tesic, V., Abeleda, A. P., Beavis, K., Clouser, F., Ismail, M., Christmas, M., Piarroux, R., Limonne, D., Chapey, E., . . . McLeod, R. (2024). Novel paradigm enables accurate monthly gestational screening to prevent congenital toxoplasmosis and more. PLoS Neglected Tropical Diseases, 18(5), e0011335. 10.1371/journal.pntd.0011335
+
 Microbiome:
 
 Thorman AW, Adkins G, Conrey SC, Burrell AR, Yu Y, White B, Burke R, Haslam D, Payne DC, Staat MA, Morrow AL, Newburg DS. Gut Microbiome Composition and Metabolic Capacity Differ by FUT2 Secretor Status in Exclusively Breastfed Infants. Nutrients. 2023; 15(2):471. https://doi.org/10.3390/nu15020471
@@ -30,3 +38,5 @@ Conrey SC, Burrell AR, Brokamp C, Burke RM, Couch SC, Niu L, Mattison CP, Payne 
 Breastfeeding:
 
 Morrow AL, McClain J, Conrey SC, Niu L, Kinzer A, Cline AR, Piasecki AM, et al. 2021. Breastfeeding disparities and their mediators in an urban birth cohort of black and white mothers. Breastfeeding Medicine Jun;16(6): 452-62. 
+
+Conrey, S. C., Burrell, A. R., Staat, M. A., Washington, D. M., Taft, D. H., Nommsen-Rivers, L., & Morrow, A. L. (2024). Obesity and Prenatal Intention as Predictors of Meeting Breastfeeding Recommendations in an Urban Birth Cohort. Breastfeeding Medicine : The Official Journal of the Academy of Breastfeeding Medicine, 10.1089/bfm.2023.0207
