@@ -5,13 +5,19 @@ For details on data collection methods, aims of the study, and preliminary findi
 
 PREVAIL has presented as numerous conferences, including Pediatric Academic Society, ID Week, American Society for Nutrition, American Public Health Association, International Society for Research in Human Milk and Lactation, The World Microbe Forum, International Society for Extra Cellular Vesicles among others. Research is ongoing.
 
-Published work to date by topic:
+Published work to date by topic (chronological):
  
 Protocol:
 
 Morrow AL, Staat MA, DeFranco EA, McNeal MM, Cline AR, Conrey SC, Schlaudecker EP, Piasecki AM, Burke RM, Niu L, Hall AJ, Bowen MD, Gerber SI, Langley GE, Thornburg NJ, Campbell AP, Vinjé J, Parashar UD, Payne DC. Pediatric Respiratory and Enteric Virus Acquisition and Immunogenesis in US Mothers and Children Aged 0-2: PREVAIL Cohort Study. JMIR Res Protoc. 2021 Feb 12;10(2):e22222. doi: 10.2196/22222. PMID: 33576746; PMCID: PMC7910118.
 
 Infectious Disease:
+
+Baker JM, Cannon JL, Mattison CP, Browne H, Nguyen K, Burke RM, Bartlett E, Conrey SC, Burrell AR, Staat MA, Morrow AL, Parashar UD, Vinjé J, Mirza SA, Payne DC. Symptomatic and asymptomatic norovirus infections in early life; The PREVAIL Cohort, 2017-2020. Clin Infect Dis. 2026 Jan 22:ciag033. doi: 10.1093/cid/ciag033. Epub ahead of print. PMID: 41566972.
+
+Conrey SC, Payne DC, Leon MD, Epperson M, Coughlin MM, Burrell AR, Mattison CP, Burke RM, Baker JM, Thornburg NJ, McMorrow ML, Staat MA, Morrow AL. Optimizing the sensitivity of detection of respiratory syncytial virus infections in longitudinal studies using the combination of weekly sample testing and biannual serology. Am J Epidemiol. 2025 Dec 9:kwaf271. doi: 10.1093/aje/kwaf271. Epub ahead of print. PMID: 41360520. 
+
+Teoh, Z, Midgely, CM, Conrey, SC, Burrell, AR, White, B, Mattison, CP, McMorrow, M, Morrow, AL, Schlaudecker, E, Vawter-Lee, M, Payne, DC, Staat, MA; Burden of disease and spectrum of illness from enterovirus-D68 infections in U.S. children 0-2 years of age from a longitudinal community-based cohort, 2017-2019. Pediatric Infectious Disease, https://doi.org/10.1093/jpids/piaf057
 
 Zheyi T, Conrey SC, McNeal MM, Burrell AR, Burke RM, Mattison CP, McMorrow M, Payne DC, Morrow AL, Staat MA. Burden of respiratory viruses in children less than two years in a community-based longitudinal U.S. birth cohort, Clinical Infectious Diseases, 2023;, ciad289, https://doi.org/10.1093/cid/ciad289
 
@@ -36,6 +42,9 @@ Conrey SC, Burrell AR, Brokamp C, Burke RM, Couch SC, Niu L, Mattison CP, et al.
 Conrey SC, Burrell AR, Brokamp C, Burke RM, Couch SC, Niu L, Mattison CP, Payne DC, Staat MA, Morrow AL. 2022. Comparison of neighborhood deprivation index and food desert status as environmental predictors of early childhood obesity. Int Public Health J 2022;14(3). 
 
 Breastfeeding:
+Conrey SC, Nommsen-Rivers L, Burrell AR, Staat MA, Morrow AL. Early formula supplementation differs by maternal body mass index but does not explain breastfeeding outcomes in mothers who intend to exclusively breastfeed. Curr Dev Nutr. 2024 Oct 9; 8(11): 104472. PMCID:39624806; 10.1016/j.cdnut.2024.104472.
+
+Conrey SC, Burrell AR, Staat MA, Washington DM, Taft DH, Nommsen-Rivers L, Morrow AL. Obesity and prenatal intention as predictors of meeting breastfeeding recommendations in an urban birth cohort. Breastfeed Med. 2024 Jan 25 PMCID:38271575; 10.1089/bfm.2023.0207.
 
 Morrow AL, McClain J, Conrey SC, Niu L, Kinzer A, Cline AR, Piasecki AM, et al. 2021. Breastfeeding disparities and their mediators in an urban birth cohort of black and white mothers. Breastfeeding Medicine Jun;16(6): 452-62. 
 
