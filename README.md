@@ -5,13 +5,13 @@ For details on data collection methods, aims of the study, and preliminary findi
 
 PREVAIL has presented as numerous conferences, including Pediatric Academic Society, ID Week, American Society for Nutrition, American Public Health Association, International Society for Research in Human Milk and Lactation, The World Microbe Forum, International Society for Extra Cellular Vesicles among others. Research is ongoing.
 
-Published work to date by topic (chronological):
+Published work to date by topic:
  
-Protocol:
+# Protocol:
 
 Morrow AL, Staat MA, DeFranco EA, McNeal MM, Cline AR, Conrey SC, Schlaudecker EP, Piasecki AM, Burke RM, Niu L, Hall AJ, Bowen MD, Gerber SI, Langley GE, Thornburg NJ, Campbell AP, Vinjé J, Parashar UD, Payne DC. Pediatric Respiratory and Enteric Virus Acquisition and Immunogenesis in US Mothers and Children Aged 0-2: PREVAIL Cohort Study. JMIR Res Protoc. 2021 Feb 12;10(2):e22222. doi: 10.2196/22222. PMID: 33576746; PMCID: PMC7910118.
 
-Infectious Disease:
+# Infectious Disease:
 
 Baker JM, Cannon JL, Mattison CP, Browne H, Nguyen K, Burke RM, Bartlett E, Conrey SC, Burrell AR, Staat MA, Morrow AL, Parashar UD, Vinjé J, Mirza SA, Payne DC. Symptomatic and asymptomatic norovirus infections in early life; The PREVAIL Cohort, 2017-2020. Clin Infect Dis. 2026 Jan 22:ciag033. doi: 10.1093/cid/ciag033. Epub ahead of print. PMID: 41566972.
 
@@ -31,21 +31,21 @@ Teoh, Z., Conrey, S., McNeal, M., Burrell, A., Burke, R. M., Mattison, C. P., Mc
 
 Zhou, Y., Leahy, K., Grose, A., Lykins, J., Siddiqui, M., Leong, N., Goodall, P., Withers, S., Ashi, K., Schrantz, S., Tesic, V., Abeleda, A. P., Beavis, K., Clouser, F., Ismail, M., Christmas, M., Piarroux, R., Limonne, D., Chapey, E., . . . McLeod, R. (2024). Novel paradigm enables accurate monthly gestational screening to prevent congenital toxoplasmosis and more. PLoS Neglected Tropical Diseases, 18(5), e0011335. 10.1371/journal.pntd.0011335
 
-Microbiome:
+# Microbiome:
 
 Thorman AW, Adkins G, Conrey SC, Burrell AR, Yu Y, White B, Burke R, Haslam D, Payne DC, Staat MA, Morrow AL, Newburg DS. Gut Microbiome Composition and Metabolic Capacity Differ by FUT2 Secretor Status in Exclusively Breastfed Infants. Nutrients. 2023; 15(2):471. https://doi.org/10.3390/nu15020471
 
-Childhood obesity:
+# Childhood obesity:
 
 Conrey SC, Burrell AR, Brokamp C, Burke RM, Couch SC, Niu L, Mattison CP, et al. 2022. Neighbourhood socio-economic environment predicts adiposity and obesity risk in children under two. Pediatric Obesity. 2022;e12964. doi:10.1111/ijpo.12964
 
 Conrey SC, Burrell AR, Brokamp C, Burke RM, Couch SC, Niu L, Mattison CP, Payne DC, Staat MA, Morrow AL. 2022. Comparison of neighborhood deprivation index and food desert status as environmental predictors of early childhood obesity. Int Public Health J 2022;14(3). 
 
-Breastfeeding:  
+# Breastfeeding:  
+
 Conrey SC, Nommsen-Rivers L, Burrell AR, Staat MA, Morrow AL. Early formula supplementation differs by maternal body mass index but does not explain breastfeeding outcomes in mothers who intend to exclusively breastfeed. Curr Dev Nutr. 2024 Oct 9; 8(11): 104472. PMCID:39624806; 10.1016/j.cdnut.2024.104472.
 
 Conrey SC, Burrell AR, Staat MA, Washington DM, Taft DH, Nommsen-Rivers L, Morrow AL. Obesity and prenatal intention as predictors of meeting breastfeeding recommendations in an urban birth cohort. Breastfeed Med. 2024 Jan 25 PMCID:38271575; 10.1089/bfm.2023.0207.
 
 Morrow AL, McClain J, Conrey SC, Niu L, Kinzer A, Cline AR, Piasecki AM, et al. 2021. Breastfeeding disparities and their mediators in an urban birth cohort of black and white mothers. Breastfeeding Medicine Jun;16(6): 452-62. 
 
-Conrey, S. C., Burrell, A. R., Staat, M. A., Washington, D. M., Taft, D. H., Nommsen-Rivers, L., & Morrow, A. L. (2024). Obesity and Prenatal Intention as Predictors of Meeting Breastfeeding Recommendations in an Urban Birth Cohort. Breastfeeding Medicine : The Official Journal of the Academy of Breastfeeding Medicine, 10.1089/bfm.2023.0207
