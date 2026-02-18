@@ -41,7 +41,7 @@ Conrey SC, Burrell AR, Brokamp C, Burke RM, Couch SC, Niu L, Mattison CP, et al.
 
 Conrey SC, Burrell AR, Brokamp C, Burke RM, Couch SC, Niu L, Mattison CP, Payne DC, Staat MA, Morrow AL. 2022. Comparison of neighborhood deprivation index and food desert status as environmental predictors of early childhood obesity. Int Public Health J 2022;14(3). 
 
-Breastfeeding:
+Breastfeeding:  
 Conrey SC, Nommsen-Rivers L, Burrell AR, Staat MA, Morrow AL. Early formula supplementation differs by maternal body mass index but does not explain breastfeeding outcomes in mothers who intend to exclusively breastfeed. Curr Dev Nutr. 2024 Oct 9; 8(11): 104472. PMCID:39624806; 10.1016/j.cdnut.2024.104472.
 
 Conrey SC, Burrell AR, Staat MA, Washington DM, Taft DH, Nommsen-Rivers L, Morrow AL. Obesity and prenatal intention as predictors of meeting breastfeeding recommendations in an urban birth cohort. Breastfeed Med. 2024 Jan 25 PMCID:38271575; 10.1089/bfm.2023.0207.
